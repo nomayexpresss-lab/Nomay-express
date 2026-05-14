@@ -107,8 +107,15 @@ align-items:center;
 
 .about img{
 width:100%;
-border-radius:15px;
-box-shadow:0 10px 20px rgba(0,0,0,0.1);
+height:450px;
+object-fit:cover;
+border-radius:18px;
+box-shadow:0 15px 35px rgba(0,0,0,0.18);
+transition:0.4s;
+}
+
+.about img:hover{
+transform:scale(1.02);
 }
 
 .about-text p{
