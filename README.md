@@ -262,7 +262,7 @@ Especialistas em entregas rápidas e logística inteligente
 
 <div class="about">
 
-<img src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?q=80&w=1400&auto=format&fit=crop">
+<img src="https://safetytrab.com.br/wp-content/uploads/2019/11/motoboy-sampa-br-1559328674.jpg">
 
 <div class="about-text">
 
