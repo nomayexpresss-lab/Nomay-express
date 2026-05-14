@@ -30,7 +30,7 @@ header{
 height:100vh;
 background:
 linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
-url(url('https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&w=1800&auto=format&fit=crop');
+url('https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1800&auto=format&fit=crop');
 background-size:cover;
 background-position:center;
 display:flex;
