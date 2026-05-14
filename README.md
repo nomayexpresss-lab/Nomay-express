@@ -30,7 +30,7 @@ header{
 height:100vh;
 background:
 linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
-url(<img src="logo.png" class="logo-img" alt="Nomay Express">
+url(url('https://images.unsplash.com/photo-1519003722824-194d4455a60c?q=80&w=1800&auto=format&fit=crop');
 background-size:cover;
 background-position:center;
 display:flex;
